@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* Base styles for the app */
+body {
+  background-color: #f8fafc;
+  color: #1e293b;
+  font-family:
+    system-ui,
+    -apple-system,
+    sans-serif;
+}
+
+/* Simple table styling */
+table {
+  border-collapse: collapse;
+}
